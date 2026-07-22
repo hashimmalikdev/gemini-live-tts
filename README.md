@@ -1,20 +1,47 @@
-# Gemini Live Audio TTS Engine
+# 🎙️ Gemini Live Unlimited Free TTS
 
-A low-latency real-time Text-To-Speech (TTS) engine built with Google's Gemini Multimodal Live API and PyAudio.
+A Python tool to convert text to speech **100% free and without limits** using Google's Gemini AI. Say goodbye to expensive TTS API subscriptions!
 
-## 🚀 Key Features
+---
 
-* **⚡ Low-Latency Audio:** Asynchronous WebSocket streaming for instant audio playback.
-* **🔄 Non-Blocking Loop:** Dedicated background event loop for seamless execution.
-* **🎙️ Voice Customization:** Dynamic voice configurations and model switching.
+## ✨ Features
+
+- ♾️ **Unlimited & Free TTS:** Generate unlimited audio without high subscription costs.
+- 🔊 **High-Quality Voice:** Converts text into clear, natural-sounding audio.
+- ⚡ **Fast Performance:** Quick audio generation with streaming support.
+- 💬 **Simple CLI:** Clean, easy-to-use terminal interface.
+
+---
 
 ## 📋 Prerequisites
 
-* **Python:** `3.12.3`
-* **API Access:** Google Gemini API Key ([Get Key Here](https://aistudio.google.com/apikey))
+- **Python 3.9+** installed on your machine.
+- A free **Google Gemini API Key** (Get it from [Google AI Studio](https://aistudio.google.com/)).
 
-## 📦 Quick Start
+---
 
-### 1. Clone Repository
+## 🚀 How to Use
+
+Follow these simple steps to set up and run the project:
+
+### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/hashimmalikdev/gemini-live-tts
+git clone https://github.com/hashimmalikdev/gemini-live-tts.git
+cd gemini-live-tts
+```
+
+### Step 2: Create & Activate Virtual Environment
+```powershell
+python -m venv venv
+.\venv\Scripts\Activate.ps1
+```
+
+### Step 3: Install Dependencies
+```powershell
+pip install -r .\requirements.txt
+```
+
+### Step 4: Run TTS
+```powershell
+python Google_Gemini_Live_TTS.py
+```
