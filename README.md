@@ -15,11 +15,45 @@ A Python tool to convert text to speech **100% free and without limits** using G
 
 ## 🗣️ Supported Voices
 
-All 30 available Gemini Live preset voices organized by pitch level:
+<details open>
+<summary><b>Click to view all 30 Gemini Live preset voices</b></summary>
 
-| 🔊 Higher Pitch | 🎙️ Middle Pitch | 🎧 Lower Middle | 🔉 Lower Pitch |
-| :--- | :--- | :--- | :--- |
-| **Zephyr** — *Bright*<br>**Leda** — *Youthful*<br>**Laomedeia** — *Upbeat*<br>**Achernar** — *Soft* | **Puck** — *Upbeat*<br>**Kore** — *Firm*<br>**Aoede** — *Breezy*<br>**Callirrhoe** — *Easy-going*<br>**Autonoe** — *Bright*<br>**Despina** — *Smooth*<br>**Erinome** — *Clear*<br>**Rasalgethi** — *Informative*<br>**Gacrux** — *Mature*<br>**Pulcherrima** — *Forward*<br>**Vindemiatrix** — *Gentle*<br>**Sadaltager** — *Knowledgeable*<br>**Sulafat** — *Warm* | **Fenrir** — *Excitable*<br>**Orus** — *Firm*<br>**Iapetus** — *Clear*<br>**Umbriel** — *Easy-going*<br>**Alnilam** — *Firm*<br>**Schedar** — *Even*<br>**Achird** — *Friendly*<br>**Zubenelgenubi** — *Casual* | **Charon** — *Informative*<br>**Enceladus** — *Breathy*<br>**Algieba** — *Smooth*<br>**Algenib** — *Gravelly*<br>**Sadachbia** — *Lively* |
+<br>
+
+| Voice Name | Pitch Level | Tone / Style |
+| :--- | :--- | :--- |
+| **Zephyr** | 🔊 Higher | Bright |
+| **Leda** | 🔊 Higher | Youthful |
+| **Laomedeia** | 🔊 Higher | Upbeat |
+| **Achernar** | 🔊 Higher | Soft |
+| **Puck** | 🎙️ Middle | Upbeat |
+| **Kore** | 🎙️ Middle | Firm |
+| **Aoede** | 🎙️ Middle | Breezy |
+| **Callirrhoe** | 🎙️ Middle | Easy-going |
+| **Autonoe** | 🎙️ Middle | Bright |
+| **Despina** | 🎙️ Middle | Smooth |
+| **Erinome** | 🎙️ Middle | Clear |
+| **Rasalgethi** | 🎙️ Middle | Informative |
+| **Gacrux** | 🎙️ Middle | Mature |
+| **Pulcherrima** | 🎙️ Middle | Forward |
+| **Vindemiatrix** | 🎙️ Middle | Gentle |
+| **Sadaltager** | 🎙️ Middle | Knowledgeable |
+| **Sulafat** | 🎙️ Middle | Warm |
+| **Fenrir** | 🎧 Lower Middle | Excitable |
+| **Orus** | 🎧 Lower Middle | Firm |
+| **Iapetus** | 🎧 Lower Middle | Clear |
+| **Umbriel** | 🎧 Lower Middle | Easy-going |
+| **Alnilam** | 🎧 Lower Middle | Firm |
+| **Schedar** | 🎧 Lower Middle | Even |
+| **Achird** | 🎧 Lower Middle | Friendly |
+| **Zubenelgenubi** | 🎧 Lower Middle | Casual |
+| **Charon** | 🔉 Lower | Informative |
+| **Enceladus** | 🔉 Lower | Breathy |
+| **Algieba** | 🔉 Lower | Smooth |
+| **Algenib** | 🔉 Lower | Gravelly |
+| **Sadachbia** | 🔉 Lower | Lively |
+
+</details>
 
 ---
 
