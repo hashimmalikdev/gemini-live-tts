@@ -17,4 +17,4 @@ A low-latency real-time Text-To-Speech (TTS) engine built with Google's Gemini M
 
 ### 1. Clone Repository
 ```bash
-git clone [https://github.com/hashimmalikdev/gemini-live-tts.git](https://github.com/hashimmalikdev/gemini-live-tts.git)
+git clone https://github.com/hashimmalikdev/gemini-live-tts
