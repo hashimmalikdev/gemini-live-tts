@@ -208,6 +208,6 @@ def TTS(query, voice="Zephyr"):
 
 if __name__ == '__main__':
     while True:
-        query = input("\nQuery: ")
+        query = input("\nTTS: ")
         output = TTS(query, "Zephyr")
         print(f"Final Return: {output}")
