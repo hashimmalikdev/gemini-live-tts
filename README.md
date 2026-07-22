@@ -69,7 +69,7 @@ A Python tool to convert text to speech **100% free and without limits** using G
 
 ## 📋 Prerequisites
 
-- **Python 3.9+** installed on your machine.
+- **Python 3.12.3** installed on your machine.
 - A free **Google Gemini API Key** (Get it from [Google AI Studio](https://aistudio.google.com/)).
 
 ---
