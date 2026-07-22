@@ -13,6 +13,58 @@ A Python tool to convert text to speech **100% free and without limits** using G
 
 ---
 
+## 🗣️ Supported Voices
+
+All 30 available Gemini Live preset voices categorized by pitch level:
+
+### 🔊 Higher Pitch
+| Voice Name | Style / Tone |
+| :--- | :--- |
+| **Zephyr** | Bright |
+| **Leda** | Youthful |
+| **Laomedeia** | Upbeat |
+| **Achernar** | Soft |
+
+### 🎙️ Middle Pitch
+| Voice Name | Style / Tone |
+| :--- | :--- |
+| **Puck** | Upbeat |
+| **Kore** | Firm |
+| **Aoede** | Breezy |
+| **Callirrhoe** | Easy-going |
+| **Autonoe** | Bright |
+| **Despina** | Smooth |
+| **Erinome** | Clear |
+| **Rasalgethi** | Informative |
+| **Gacrux** | Mature |
+| **Pulcherrima** | Forward |
+| **Vindemiatrix** | Gentle |
+| **Sadaltager** | Knowledgeable |
+| **Sulafat** | Warm |
+
+### 🎧 Lower Middle Pitch
+| Voice Name | Style / Tone |
+| :--- | :--- |
+| **Fenrir** | Excitable |
+| **Orus** | Firm |
+| **Iapetus** | Clear |
+| **Umbriel** | Easy-going |
+| **Alnilam** | Firm |
+| **Schedar** | Even |
+| **Achird** | Friendly |
+| **Zubenelgenubi** | Casual |
+
+### 🔉 Lower Pitch
+| Voice Name | Style / Tone |
+| :--- | :--- |
+| **Charon** | Informative |
+| **Enceladus** | Breathy |
+| **Algieba** | Smooth |
+| **Algenib** | Gravelly |
+| **Sadachbia** | Lively |
+
+---
+
 ## 📋 Prerequisites
 
 - **Python 3.9+** installed on your machine.
