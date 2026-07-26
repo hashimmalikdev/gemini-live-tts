@@ -2,6 +2,12 @@
 
 A Python tool to convert text to speech **100% free and without limits** using Google's Gemini AI. Say goodbye to expensive TTS API subscriptions!
 
+## 🎥 Video Demo
+
+[![Watch on YouTube](https://img.youtube.com/vi/xnbEBUnjChQ/maxresdefault.jpg)](https://www.youtube.com/watch?v=xnbEBUnjChQ)
+
+> 📺 Watch the complete setup, installation, and demo on YouTube.
+
 ---
 
 ## ✨ Features
