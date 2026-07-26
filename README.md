@@ -4,8 +4,9 @@ A Python tool to convert text to speech **100% free and without limits** using G
 
 ## 🎬 Video Demo
 
-[![Free AI Voice](https://github.com/user-attachments/assets/76ce5de5-18f0-4dab-8223-f43ef15f58a5)](https://www.youtube.com/watch?v=xnbEBUnjChQ)
+<a href="[https://www.youtube.com/watch?v=xnbEBUnjChQ](https://www.youtube.com/watch?v=xnbEBUnjChQ)" target="_blank"><img src="[https://github.com/user-attachments/assets/76ce5de5-18f0-4dab-8223-f43ef15f58a5](https://github.com/user-attachments/assets/76ce5de5-18f0-4dab-8223-f43ef15f58a5)" alt="Free AI Voice"></a>
 
+---
 
 ## ✨ Features
 
