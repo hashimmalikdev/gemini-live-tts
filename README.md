@@ -5,17 +5,9 @@ A Python tool to convert text to speech **100% free and without limits** using G
 ## 🎥 Video Demo
 
 <p align="center">
-  <a href="https://www.youtube.com/watch?v=xnbEBUnjChQ" target="_blank">
-    <img
-      src="https://img.youtube.com/vi/xnbEBUnjChQ/maxresdefault.jpg"
-      alt="Gemini Live Unlimited Free TTS - Video Demo"
-      width="900"
-    />
+  <a href="https://www.youtube.com/watch?v=xnbEBUnjChQ">
+    <img src="https://img.youtube.com/vi/xnbEBUnjChQ/maxresdefault.jpg" alt="Build an Unlimited Free AI Voice Generator in Python" width="100%">
   </a>
-</p>
-
-<p align="center">
-  <b>📺 Watch the complete setup, installation, and demo on YouTube.</b>
 </p>
 
 ---
