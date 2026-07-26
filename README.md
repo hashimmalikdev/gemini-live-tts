@@ -6,7 +6,7 @@ A Python tool to convert text to speech **100% free and without limits** using G
 
 <p align="center">
   <a href="https://www.youtube.com/watch?v=xnbEBUnjChQ" target="_blank">
-    <img src="https://github.com/user-attachments/assets/3eaff8cc-4974-4e32-8e1d-5c129956f04f" alt="Watch on YouTube" width="800">
+    <img src="https://github.com/user-attachments/assets/3eaff8cc-4974-4e32-8e1d-5c129956f04f" alt="Watch on YouTube" width="800" target="_blank">
   </a>
 </p>
 
