@@ -2,13 +2,9 @@
 
 A Python tool to convert text to speech **100% free and without limits** using Google's Gemini AI. Say goodbye to expensive TTS API subscriptions!
 
-## 🎥 Video Demo
+## 🎬 Video Demo
 
-<p align="center">
-  <a href="https://www.youtube.com/watch?v=xnbEBUnjChQ">
-    <img src="https://img.youtube.com/vi/xnbEBUnjChQ/maxresdefault.jpg" alt="Build an Unlimited Free AI Voice Generator in Python" width="100%">
-  </a>
-</p>
+[![Build an Unlimited Free AI Voice Generator in Python](assets/thumbnail.jpg)](https://www.youtube.com/watch?v=xnbEBUnjChQ)
 
 ---
 
